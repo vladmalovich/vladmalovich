@@ -105,8 +105,8 @@
 <!-- <div width="300" height="200">  -->
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladmalovich&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-<p><img align="center" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=vladmalovich&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="vladmalovich" /></p>  
+<!--   
+<p><img align="center" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=vladmalovich&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="vladmalovich" /></p>   -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- </div> -->
