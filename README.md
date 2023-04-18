@@ -23,8 +23,11 @@
 <br />
 <img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e477vvogkithcknjwkvy1tojkhs1kwyo5hmrxkk2gcz&rid=giphy.gif&ct=g" width="400" height="300" align="right"/>
 
+<img src="https://komarev.com/ghpvc/?username=vladmalovich&style=flat-square&color=blue" alt=""/>    
 
 - 🌱 I’m currently learning Python, Java
+    
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, PostgreSQL**    
 
 <!-- - 📫 How to reach me **vladimir.malovichko.job@gmail.com** -->
     
@@ -34,7 +37,7 @@
     
 - 🌎 I speak English    
 
-<br />    
+<!-- <br />     -->
    
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -99,12 +102,14 @@
   
 ---  
   
-<div width="300" height="100"> 
+<!-- <div width="300" height="200">  -->
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladmalovich&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
   
+<p><img align="center" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=vladmalovich&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="vladmalovich" /></p>  
+  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)  -->
-</div>
+<!-- </div> -->
     
     
 [![Vladimir Malovichko's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmalovich&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/vladmalovich)
