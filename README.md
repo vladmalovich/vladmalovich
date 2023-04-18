@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning Python, Java
     
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, PostgreSQL**    
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, Node.js, PostgreSQL**    
 
 <!-- - 📫 How to reach me **vladimir.malovichko.job@gmail.com** -->
     
