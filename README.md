@@ -31,7 +31,7 @@
 
 <!-- - 📫 How to reach me **vladimir.malovichko.job@gmail.com** -->
     
-- 📫 reach me by **[email](mailto:vladimir.malovichko.job@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/vladimir-malovichko-872055268)** or   **[Telegram](https://t.me/Vladimir_Malovichko)**   
+- 📫 reach me by **[email](mailto:vladimir.malovichko.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/vladimir-malovichko-872055268)** or   **[Telegram](https://t.me/Vladimir_Malovichko)**   
     
 <!-- - 📫 or here **https://t.me/Vladimir_Malovichko** -->
     
