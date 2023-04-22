@@ -25,7 +25,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vladmalovich&style=flat-square&color=blue" alt=""/>    
 
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning modern Frontend technologies
     
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, Node.js, PostgreSQL**    
 
