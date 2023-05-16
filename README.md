@@ -110,7 +110,7 @@
   </a> -->
 <!--   <a href="https://postman.com" target="_blank" rel="nofollow">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; -->
-  <a href="https://www.webpack.js.org" target="_blank" rel="noreferrer">
+  <a href="https://webpack.js.org/guides/getting-started/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg"
       alt="webpack" width="40" height="40" />
