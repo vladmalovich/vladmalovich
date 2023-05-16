@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning modern Frontend technologies
     
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, React, Redux, Node.js, Socket.io, PostgreSQL, ORM Sequelize, Prisma**    
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, React, Redux, Node.js, Socket.io, PostgreSQL, ORM Sequelize**    
 
 <!-- - 📫 How to reach me **vladimir.malovichko.job@gmail.com** -->
     
