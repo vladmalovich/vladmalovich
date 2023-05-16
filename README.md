@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
   </a>
-  <a href="https://materialui.com" target="_blank" rel="noreferrer">
+  <a href="https://mui.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"     height="40"/>&nbsp;
   </a>
 <!--   <a href="https://www.figma.com/" rel="nofollow"> 
