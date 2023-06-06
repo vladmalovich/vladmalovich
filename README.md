@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vladimir-malovichko-872055268"> 
+  <a href="https://www.linkedin.com/in/v-malovichko"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://t.me/Vladimir_Malovichko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -31,7 +31,7 @@
 
 <!-- - 📫 How to reach me **vladimir.malovichko.job@gmail.com** -->
     
-- 📫 reach me by **[email](mailto:vladimir.malovichko.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/vladimir-malovichko-872055268)** or   **[Telegram](https://t.me/Vladimir_Malovichko)**   
+- 📫 reach me by **[email](mailto:vladimir.malovichko.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/v-malovichko)** or   **[Telegram](https://t.me/Vladimir_Malovichko)**   
     
 <!-- - 📫 or here **https://t.me/Vladimir_Malovichko** -->
     
