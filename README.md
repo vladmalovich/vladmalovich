@@ -86,10 +86,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
       alt="express" width="40" height="40" />
   </a>
-<!--   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
+  <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
       alt="nginx" width="40" height="40" />
-  </a> -->
+  </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
