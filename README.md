@@ -105,11 +105,11 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
       alt="sequelize" width="40" height="40" />
   </a>
-<!--   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-  </a> -->
-<!--   <a href="https://postman.com" target="_blank" rel="nofollow">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; -->
+  </a>
+  <a href="https://postman.com" target="_blank" rel="nofollow">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <a href="https://webpack.js.org/guides/getting-started/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg"
