@@ -105,9 +105,9 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
       alt="sequelize" width="40" height="40" />
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+<!--   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-  </a>
+  </a> -->
 <!--   <a href="https://postman.com" target="_blank" rel="nofollow">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; -->
   <a href="https://webpack.js.org/guides/getting-started/" target="_blank" rel="noreferrer">
@@ -120,11 +120,11 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
       alt="docker" width="40" height="40" />
   </a>
-<!--   <a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"
       alt="graphql" width="40" height="40" />
-  </a> -->
+  </a>
   <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> 
   </a>
 </p>
